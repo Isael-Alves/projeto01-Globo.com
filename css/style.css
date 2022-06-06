@@ -58,6 +58,8 @@ main {
     margin: 25px 0;
 }
 
+a {text-decoration: none;}
+
 h1 {
     height: 201px;
     font-weight: 700;
@@ -113,6 +115,11 @@ h5 {
     height: 110px;
     margin-bottom: 11px;
     border-radius: 12px;
+}
+
+.Line-Notice div {
+    width: 193px;
+    margin-right: 24px;
 }
 
 .Column-Notice {
